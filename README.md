@@ -1,4 +1,4 @@
- rock-paper-scissors-js
+ #rock-paper-scissors-js
 
  🎮 Rock Paper Scissors Game
 
